@@ -1,4 +1,3 @@
-
 export ZLIB_VERSION="1.2.8"
 export LIBPNG_VERSION="1.5.17"
 export NASM_VERSION="2.10.09"
@@ -9,4 +8,4 @@ export LIBPNG_REMOTE_PATH="libpng-${LIBPNG_VERSION}.tgz"
 export LIBJPEG_TURBO_REMOTE_PATH="libjpeg_turbo-${LIBJPEG_TURBO_VERSION}.tgz"
 export NASM_REMOTE_PATH="nasm-${NASM_VERSION}.tgz"
 export ZLIB_REMOTE_PATH="zlib-${ZLIB_VERSION}.tgz"
-export S3_BUCKET="heroku-buildpack-graphicsmagick"
+export S3_BUCKET="richleenyc-heroku-buildpack-graphicsmagick"
